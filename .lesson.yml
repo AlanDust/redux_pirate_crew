@@ -1,0 +1,7 @@
+---
+title: "Redux Pirate Crew"
+type: "challenge"
+description: "Keep track of the pirates who have walked the plank."
+tags: "javascript, redux"
+ignore:
+- "redux-pirate-crew.md"
